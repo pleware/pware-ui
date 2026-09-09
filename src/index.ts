@@ -1,5 +1,25 @@
 export { cn } from './lib/cn'
+export { Badge, badgeVariants } from './ui/badge'
 export { Button, buttonVariants } from './ui/button'
+export {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from './ui/card'
+export {
+  Table,
+  TableBody,
+  TableCaption,
+  TableCell,
+  TableFooter,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from './ui/table'
+export { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/tabs'
 export {
   Select,
   SelectContent,
