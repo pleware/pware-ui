@@ -6,3 +6,6 @@ dist/
 /docs/
 /AGENTS.md
 /backlog.md
+
+# agentize-generated rules: per-instance, never commit.
+.cursor/rules/agentize.auto.generated*
