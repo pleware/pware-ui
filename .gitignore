@@ -7,6 +7,9 @@ dist/
 /AGENTS.md
 /backlog.md
 
+# Local knowledge-graph cache (graphify). Rebuilt on demand, never committed.
+graphify-out/
+
 # agentize-generated rules: per-instance, never commit.
 .cursor/rules/agentize.auto.generated*
 
