@@ -9,3 +9,7 @@ dist/
 
 # agentize-generated rules: per-instance, never commit.
 .cursor/rules/agentize.auto.generated*
+
+# agentize-generated skills: per-instance, mount re-emits them.
+.cursor/skills/agentize.auto.generated*
+.opencode/skills/agentize.auto.generated*
